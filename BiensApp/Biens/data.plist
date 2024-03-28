@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>id</key>
+        <integer>1</integer>
+        <key>title</key>
+        <string>Villa 1</string>
+        <key>image</key>
+        <string>villa1</string>
+        <key>price</key>
+        <integer>30000</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+    </dict>    
+    <dict>
+        <key>id</key>
+        <integer>2</integer>
+        <key>title</key>
+        <string>Villa 2</string>
+        <key>image</key>
+        <string>villa2</string>
+        <key>price</key>
+        <integer>40000</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+    </dict>    
+    <dict>
+        <key>id</key>
+        <integer>3</integer>
+        <key>title</key>
+        <string>Villa 3</string>
+        <key>image</key>
+        <string>villa3</string>
+        <key>price</key>
+        <integer>20000</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>4</integer>
+        <key>title</key>
+        <string>Villa 4</string>
+        <key>image</key>
+        <string>villa4</string>
+        <key>price</key>
+        <integer>25000</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+    </dict>
+</array>
+</plist>
