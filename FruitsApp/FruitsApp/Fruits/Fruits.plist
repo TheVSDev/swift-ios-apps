@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>id</key>
+        <integer>1</integer>
+        <key>name</key>
+        <string>Apple</string>
+        <key>image</key>
+        <string>apple</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorAppleLight</string>
+        <key>colorDark</key>
+        <string>ColorAppleDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>2</integer>
+        <key>name</key>
+        <string>Blueberry</string>
+        <key>image</key>
+        <string>blueberry</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorLimeLight</string>
+        <key>colorDark</key>
+        <string>ColorLimeDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>3</integer>
+        <key>name</key>
+        <string>Cherry</string>
+        <key>image</key>
+        <string>cherry</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorCherryLight</string>
+        <key>colorDark</key>
+        <string>ColorCherryDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>4</integer>
+        <key>name</key>
+        <string>Gooseberry</string>
+        <key>image</key>
+        <string>gooseberry</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorGooseberryLight</string>
+        <key>colorDark</key>
+        <string>ColorGooseberryDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>5</integer>
+        <key>name</key>
+        <string>Grapefruit</string>
+        <key>image</key>
+        <string>grapefruit</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorGrapefruitLight</string>
+        <key>colorDark</key>
+        <string>ColorGrapefruitDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>6</integer>
+        <key>name</key>
+        <string>Lemon</string>
+        <key>image</key>
+        <string>lemon</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorLemonLight</string>
+        <key>colorDark</key>
+        <string>ColorLemonDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>7</integer>
+        <key>name</key>
+        <string>Lime</string>
+        <key>image</key>
+        <string>lime</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorLimeLight</string>
+        <key>colorDark</key>
+        <string>ColorLimeDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>8</integer>
+        <key>name</key>
+        <string>Mango</string>
+        <key>image</key>
+        <string>mango</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorMangoLight</string>
+        <key>colorDark</key>
+        <string>ColorMangoDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>9</integer>
+        <key>name</key>
+        <string>Pear</string>
+        <key>image</key>
+        <string>pear</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorPearLight</string>
+        <key>colorDark</key>
+        <string>ColorPearDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>10</integer>
+        <key>name</key>
+        <string>Plum</string>
+        <key>image</key>
+        <string>plum</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorPlumLight</string>
+        <key>colorDark</key>
+        <string>ColorPlumDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>11</integer>
+        <key>name</key>
+        <string>Pomegranate</string>
+        <key>image</key>
+        <string>pomegranate</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorPomegranateLight</string>
+        <key>colorDark</key>
+        <string>ColorPomegranateDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>12</integer>
+        <key>name</key>
+        <string>Strawberry</string>
+        <key>image</key>
+        <string>strawberry</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorStrawberryLight</string>
+        <key>colorDark</key>
+        <string>ColorStrawberryDark</string>
+    </dict>
+    <dict>
+        <key>id</key>
+        <integer>13</integer>
+        <key>name</key>
+        <string>Watermelon</string>
+        <key>image</key>
+        <string>watermelon</string>
+        <key>description</key>
+        <string>Lorem ipsum dolor si amet</string>
+        <key>colorLight</key>
+        <string>ColorWatermelonLight</string>
+        <key>colorDark</key>
+        <string>ColorWatermelonDark</string>
+    </dict>
+</array>
+</plist>
